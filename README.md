@@ -11,3 +11,4 @@ and it also uses the time library to organize the code.
 # o limite de saque é para manter a segurança dos usuarios.
 # E esse primeiro banco tem um usuario fixo.
 # ultilizo a biblioteca time para adicionar tempo a algumas telas.
+ 
