@@ -22,6 +22,7 @@ NEW
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 PT-BR
+
 Esse é o script que simula um banco. 
 Ele está escrito em Python e te dá um menu simples com 7 opções: Depositar, sacar, exibir extrato, criar novo usuário, criar novo cliente, exibir lista de contas, sair.
 Esse banco tem limite diário de 3 saques.
